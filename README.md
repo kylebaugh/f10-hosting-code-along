@@ -1,5 +1,5 @@
-# run npm init -y
-# run npm i express
+# Run npm init -y
+# Run npm i express
 
 # Create server folder
 # Create index.js file in server folder
@@ -45,10 +45,9 @@
 
 
 
-# deployment-demo1
-# f10-demo-demo
-# f10-demo-demo
-# deployment-demo1
-
-
-# f10-hosting-code-along
+# Other tags
+    # deployment-demo1
+    # f10-demo-demo
+    # f10-demo-demo
+    # deployment-demo1
+    # f10-hosting-code-along
